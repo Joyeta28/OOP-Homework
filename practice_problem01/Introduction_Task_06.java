@@ -1,3 +1,5 @@
+package practice_problem01;
+
 import java.util.Scanner;
 
 public class Introduction_Task_06 {

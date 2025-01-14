@@ -1,3 +1,4 @@
+package practice_problem01;
 
 import java.util.Scanner;
 
