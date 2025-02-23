@@ -57,6 +57,7 @@ class FoodOrderingSystem {
 
 public class ClassTask01 {
     public static void main(String[] args) {
+        //by me
         Scanner sc = new Scanner(System.in);
         FoodOrderingSystem order = new FoodOrderingSystem();
 
